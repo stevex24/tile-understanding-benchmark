@@ -1,0 +1,222 @@
+[
+  {
+    "id": "Q01",
+    "category": "horizontal",
+    "question": "Which tile best continues K0048 to its right as the middle of a blue roof?",
+    "options": {
+      "A": "K0053",
+      "B": "K0049",
+      "C": "K0073",
+      "D": "K0000"
+    }
+  },
+  {
+    "id": "Q02",
+    "category": "horizontal",
+    "question": "Which tile best closes the right edge of a blue roof after K0049?",
+    "options": {
+      "A": "K0050",
+      "B": "K0048",
+      "C": "K0054",
+      "D": "K0077"
+    }
+  },
+  {
+    "id": "Q03",
+    "category": "horizontal",
+    "question": "Which tile best continues K0052 to its right as the middle of a red roof?",
+    "options": {
+      "A": "K0049",
+      "B": "K0054",
+      "C": "K0053",
+      "D": "K0076"
+    }
+  },
+  {
+    "id": "Q04",
+    "category": "horizontal",
+    "question": "Which tile best closes the right edge of a red roof after K0053?",
+    "options": {
+      "A": "K0052",
+      "B": "K0050",
+      "C": "K0085",
+      "D": "K0054"
+    }
+  },
+  {
+    "id": "Q05",
+    "category": "horizontal",
+    "question": "Which tile best continues the brown wall K0072 to its right without adding another left border?",
+    "options": {
+      "A": "K0073",
+      "B": "K0072",
+      "C": "K0077",
+      "D": "K0043"
+    }
+  },
+  {
+    "id": "Q06",
+    "category": "vertical",
+    "question": "Which tile best completes the lower half of the tall orange tree K0003?",
+    "options": {
+      "A": "K0016",
+      "B": "K0015",
+      "C": "K0027",
+      "D": "K0073"
+    }
+  },
+  {
+    "id": "Q07",
+    "category": "vertical",
+    "question": "Which tile best completes the lower half of the tall green tree K0004?",
+    "options": {
+      "A": "K0015",
+      "B": "K0028",
+      "C": "K0016",
+      "D": "K0005"
+    }
+  },
+  {
+    "id": "Q08",
+    "category": "vertical",
+    "question": "Which tile shows the top boundary of a dirt area with grass above it?",
+    "options": {
+      "A": "K0037",
+      "B": "K0025",
+      "C": "K0000",
+      "D": "K0013"
+    }
+  },
+  {
+    "id": "Q09",
+    "category": "vertical",
+    "question": "Which tile shows the bottom boundary of a dirt area with grass below it?",
+    "options": {
+      "A": "K0037",
+      "B": "K0013",
+      "C": "K0025",
+      "D": "K0043"
+    }
+  },
+  {
+    "id": "Q10",
+    "category": "vertical",
+    "question": "Which tile is a matching brown wall candidate below the blue gable K0063?",
+    "options": {
+      "A": "K0077",
+      "B": "K0073",
+      "C": "K0053",
+      "D": "K0015"
+    }
+  },
+  {
+    "id": "Q11",
+    "category": "composition",
+    "question": "Which sequence forms a blue roof from left to right?",
+    "options": {
+      "A": "K0050 K0049 K0048",
+      "B": "K0048 K0053 K0050",
+      "C": "K0048 K0049 K0050",
+      "D": "K0049 K0048 K0050"
+    }
+  },
+  {
+    "id": "Q12",
+    "category": "composition",
+    "question": "Which sequence forms a red roof from left to right?",
+    "options": {
+      "A": "K0054 K0053 K0052",
+      "B": "K0052 K0049 K0054",
+      "C": "K0053 K0052 K0054",
+      "D": "K0052 K0053 K0054"
+    }
+  },
+  {
+    "id": "Q13",
+    "category": "composition",
+    "question": "Which top-to-bottom pair forms a tall orange tree?",
+    "options": {
+      "A": "K0003 K0015",
+      "B": "K0015 K0003",
+      "C": "K0003 K0016",
+      "D": "K0004 K0015"
+    }
+  },
+  {
+    "id": "Q14",
+    "category": "composition",
+    "question": "Which top-to-bottom pair forms a tall green tree?",
+    "options": {
+      "A": "K0016 K0004",
+      "B": "K0004 K0016",
+      "C": "K0004 K0015",
+      "D": "K0003 K0016"
+    }
+  },
+  {
+    "id": "Q15",
+    "category": "composition",
+    "question": "Which set contains a brown wall, matching door and blue roof middle?",
+    "options": {
+      "A": "K0077 K0085 K0049",
+      "B": "K0073 K0089 K0049",
+      "C": "K0073 K0085 K0049",
+      "D": "K0073 K0085 K0043"
+    }
+  },
+  {
+    "id": "Q16",
+    "category": "semantic",
+    "question": "Which door matches the brown wall K0073 in surrounding wall color?",
+    "options": {
+      "A": "K0089",
+      "B": "K0077",
+      "C": "K0053",
+      "D": "K0085"
+    }
+  },
+  {
+    "id": "Q17",
+    "category": "semantic",
+    "question": "Which door matches the blue-gray wall K0077 in surrounding wall color?",
+    "options": {
+      "A": "K0089",
+      "B": "K0085",
+      "C": "K0073",
+      "D": "K0049"
+    }
+  },
+  {
+    "id": "Q18",
+    "category": "semantic",
+    "question": "Which gable matches the blue roof K0049 in roof color?",
+    "options": {
+      "A": "K0067",
+      "B": "K0063",
+      "C": "K0077",
+      "D": "K0053"
+    }
+  },
+  {
+    "id": "Q19",
+    "category": "semantic",
+    "question": "Which gable matches the red roof K0053 in roof color?",
+    "options": {
+      "A": "K0063",
+      "B": "K0073",
+      "C": "K0067",
+      "D": "K0048"
+    }
+  },
+  {
+    "id": "Q20",
+    "category": "semantic",
+    "question": "Which tile is a dirt interior candidate rather than a grass-dirt boundary?",
+    "options": {
+      "A": "K0012",
+      "B": "K0013",
+      "C": "K0037",
+      "D": "K0025"
+    }
+  }
+]

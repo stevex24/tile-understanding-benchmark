@@ -1,0 +1,21 @@
+id,category,answer,rationale
+Q01,horizontal,B,"Blue roof middle, no side border."
+Q02,horizontal,A,Blue roof right border.
+Q03,horizontal,C,Red roof middle.
+Q04,horizontal,D,Red roof right border.
+Q05,horizontal,A,Brown wall middle.
+Q06,vertical,B,Matching orange lower tree with trunk.
+Q07,vertical,C,Matching green lower tree with trunk.
+Q08,vertical,D,"Grass at top, dirt below."
+Q09,vertical,A,Dirt above grass.
+Q10,vertical,B,Brown wall matches brown gable infill.
+Q11,composition,C,"Left, middle, right matching roof."
+Q12,composition,D,"Left, middle, right matching roof."
+Q13,composition,A,Matching orange top and trunk.
+Q14,composition,B,Matching green top and trunk.
+Q15,composition,C,"Brown wall and door, blue roof middle."
+Q16,semantic,D,Brown door surround.
+Q17,semantic,A,Blue-gray door surround.
+Q18,semantic,B,Blue gable roofing.
+Q19,semantic,C,Red gable roofing.
+Q20,semantic,D,Uniform dirt.
